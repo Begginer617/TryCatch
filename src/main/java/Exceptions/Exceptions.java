@@ -20,6 +20,9 @@ public class Exceptions {
                 System.out.println("Tylko liczby sa przyjmowane");
             }
         }
+
+        System.out.println("podaj druga liczbe");
+
     }
 }
 
