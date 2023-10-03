@@ -21,7 +21,8 @@ public class Exceptions {
             }
         }
 
-        System.out.println("podaj druga liczbe ");
+        System.out.println("podaj druga liczbe wiesniaku");
+        System.out.println("podaj druga liczbe wiesniaku2");
 
     }
 }
